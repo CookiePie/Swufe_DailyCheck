@@ -2,7 +2,7 @@
 
 ***第一次进入，可选择保存账号密码，仅会在本地生成swufe_check.pass文件，不会保存到服务器端  
 
-***如忘记密码，可进入"https://authserver.swufe.edu.cn/"找回密码  
+***如忘记密码，可进入"https://authserver.swufe.edu.cn/" 找回密码  
 
 ***修改账号密码，可删除pass文件重新运行脚本  
 
