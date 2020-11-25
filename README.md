@@ -1,4 +1,8 @@
-# hello-world
-First Repository
-I'm new to here
-I'd like to enjoy coding and be friends with you guys
+***本脚本仅在无需更新打卡数据的情况下使用，如有数据需要更新，请进入移动校园进行打卡
+***第一次进入，可选择保存账号密码，仅会在本地生成swufe_check.pass文件，不会保存到服务器端
+***如忘记密码，可进入"https://authserver.swufe.edu.cn/"找回密码
+**修改账号密码，可删除pass文件重新运行脚本
+***当日12：00前默认补昨日打卡，12：00-24：00默认打当日卡，所以通常情况在12：00后打卡即可
+***默认打卡区域：四川省——成都市——青羊区
+**如有打卡失败等问题，请联系微信：cookie_pie_yolk
+*依赖包：requests  time  datetime
